@@ -29,3 +29,6 @@ Write a script that prints the result of the addition of 128 with the value stor
 
 9. Divide and rule
 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+Write a script that displays the result of BREATH to the power LOVE

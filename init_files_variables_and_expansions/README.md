@@ -1,6 +1,6 @@
-Shell, init files, variables and expansions
+# Shell, init files, variables and expansions
 
-0. <o>
+###0.`<o>´
 Create a script that creates an alias.
 
 1. Hello you

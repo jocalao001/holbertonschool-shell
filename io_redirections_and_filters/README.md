@@ -70,7 +70,10 @@ Write a script that reverse its input.
 Write a script that displays all users and their home directories, sorted by users.
 
 23. Empty casks make the most noise
-Write a command that finds all empty files and directories in the current directory and all sub-directories.
+Write a command that finds all empty files and directories in the current directory and all sub-directories. another sol. find -empty | rev | -d\ -f1 | rev
 
 24. A gif is worth ten thousand words
 Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+25. Acrostic
+Create a script that decodes acrostics that use the first letter of each line.
